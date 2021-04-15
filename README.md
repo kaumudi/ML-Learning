@@ -21,3 +21,4 @@ https://research.fb.com/wp-content/uploads/2016/11/practical-lessons-from-predic
 
 # Post to follow
 https://www.teamblind.com/post/Machine-learning-engineering-and-ML-systems-design-resources-master-list-gWY7ZUTT
+https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf
